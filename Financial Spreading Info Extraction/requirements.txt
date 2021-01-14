@@ -1,3 +1,0 @@
-tika
-fitz
-pdfplumber
